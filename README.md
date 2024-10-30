@@ -1,7 +1,7 @@
 <h1> Landing Page Projeto-Coffee</h1>
 <br>
 <br>
-<h2>Aqui está um exemplo de texto inicial que descreve um projeto de landing page em HTML e CSS feito em sala de aula:
+<h2>Aqui está um exemplo de texto inicial que descreve um projeto de landing page em HTML e CSS feito em sala de aula:</h2>
 
 ---
 
@@ -15,12 +15,13 @@ Esse projeto foi uma excelente oportunidade para praticar os fundamentos de HTML
 
 --- 
 
-Esse texto inicial pode servir como uma introdução ao projeto. Quer adicionar mais algum detalhe específico sobre o projeto?<a href="http://digitalcollege.com.br">DigitalCollege</a></h2>
+Esse texto inicial pode servir como uma introdução ao projeto. Quer adicionar mais algum detalhe específico sobre o projeto?<a href="http://digitalcollege.com.br">DigitalCollege</a>
 <br>
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
 - HTML
+<br>
 - CSS
 <br>
 <br>
